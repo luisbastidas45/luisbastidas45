@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisbastidas45&show_icons=true&locale=en&layout=compact" alt="luisbastidas45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisbastidas45&show_icons=true&locale=en" alt="luisbastidas45" /></p>
-
